@@ -16,6 +16,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "rebuild-elec-for-robotjs": "npm rebuild --runtime=electron --target=17.0.0 --disturl=https://atom.io/download/atom-shell --abi=93",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",

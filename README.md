@@ -1,4 +1,4 @@
-Refer to package.json scripts for the fuckin scripts
+Refer to package.json scripts for the scripts
 
 npm i
 
